@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on interesting and fun projects relating to medical AI and image processing (not just for research, but also for diagnosis and treatment!)
 - 📫 How to reach me: feel free to send me a message here or add me on LinkedIn at https://www.linkedin.com/in/avidavidrenecohen/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a volunteer medic in my free time 🫀
+- ⚡ Fun fact: I'm a volunteer medic in my free time 👨‍⚕️
