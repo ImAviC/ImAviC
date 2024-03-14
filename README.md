@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImAviC
 - 👀 I’m interested in the medical device industry and the introduction of image processing and AI to the medical research world for performance improvement of the different stages of medical device testing and approval.
-- 🌱 I’m currently learning a B.Sc. in Biomedical Engineering
+- 🌱 I’m currently studying a B.Sc. in Biomedical Engineering
 - 💞️ I’m looking to collaborate on interesting and fun projects relating to medical AI and image processing (not just for research, but also for diagnosis and treatment!)
 - 📫 How to reach me: feel free to send me a message here or add me on LinkedIn at https://www.linkedin.com/in/avidavidrenecohen/
 - 😄 Pronouns: He/Him
